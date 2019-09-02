@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sd_message" type="id">msg</item>
+    <item name="sd_icon" type="id">ic</item>
+    <item name="buttonbar" type="id">btn</item>
+
+</resources>

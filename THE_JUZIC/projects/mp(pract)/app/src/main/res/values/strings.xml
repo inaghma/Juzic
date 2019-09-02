@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">juzic</string>
+    <string name="action_settings">Settings</string>
+    <string name="onesong">onesong</string>
+    <string name="...">menu</string>
+    <string name="Add_to_playlist">Add to playlist</string>
+    <string name="albumsongseparator">string</string>
+    <string name="sdcard_error_title">string</string>
+    <string name="sdcard_error_message">sd</string>
+    <string name="sdcard_error_title_nosdcard">sdtit</string>
+    <string name="sdcard_error_message_nosdcard">sdtit</string>
+    <string name="sdcard_busy_title">sdbusy</string>
+    <string name="sdcard_busy_message">sdmsg</string>
+    <string name="sdcard_busy_title_nosdcard">sd1</string>
+    <string name="sdcard_busy_message_nosdcard">sd2</string>
+    <string name="sdcard_missing_title">sdmiss</string>
+    <string name="sdcard_missing_message">sdmis2</string>
+    <string name="sdcard_missing_title_nosdcard">sdmis3</string>
+    <string name="sdcard_missing_message_nosdcard">sdmiss4</string>
+    <string name="durationformatshort">dur</string>
+    <string name="durationformatlong">dur</string>
+    <string-array name="addpl">
+        <item>Add to playlist</item>
+    </string-array>
+</resources>
